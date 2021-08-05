@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DataBaseDemoApp</string>
+    <string name="computer_name">Computer Name</string>
+    <string name="computer_type">Computer Type</string>
+    <string name="add_data">Add data</string>
+    <string name="delete_data">Delete Data</string>
 </resources>
